@@ -1,3 +1,2 @@
 #!/bin/bash
-cd ..wq >> 10-back
-echo cd ..
+cd -
