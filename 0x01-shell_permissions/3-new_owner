@@ -1,2 +1,2 @@
 #!/bin/bash
-israel betty hello
+chown betty hello
