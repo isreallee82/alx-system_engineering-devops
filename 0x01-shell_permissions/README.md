@@ -1,2 +1,1 @@
-Create a script that switches the current user to the user betty
-Write a script that prints the effective username of the current user.
+(14) Write a script that changes the owner to vincent and the group owner to staff for all the files and directories in the working directory
