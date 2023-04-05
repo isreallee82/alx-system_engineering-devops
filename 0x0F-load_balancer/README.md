@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Load balancer
 ![load_balancer](https://miro.medium.com/max/720/0*CCK15OF3DizmOITk)
 
@@ -61,3 +62,6 @@ $ service haproxy restart
 # install_haproxy_safely or 1-install_load_balancer to 
 # configure yours on a fly.
 ```
+=======
+# 0x0F-load_balancer
+>>>>>>> 8b827427fdbd642288adc8d38d4e0151df15a02a
