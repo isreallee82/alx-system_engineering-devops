@@ -10,7 +10,6 @@ In this project, I am asked to write an article to explain all about the web 2.0
 <p>Write a blog post explaining what happens when you type https://www.google.com in your browser and press Enter.</p>
 
 Requirements, your post must cover:
-
 - DNS request
 - TCP/IP
 - Firewall
